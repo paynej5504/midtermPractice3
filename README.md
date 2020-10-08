@@ -13,3 +13,5 @@ Running the script
 To run the script you will have to run it in GitBash or any other terminal by typing
 “node *where your file is located/name of file*” 
 Then it will open up in localhost:3000.
+
+* Based off code from Ethan R Brown *
